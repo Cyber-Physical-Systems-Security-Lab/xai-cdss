@@ -1,4 +1,15 @@
-# Explainable AI for Clinical Decision Support Systems
+# Explainable AI for Clinical Decision Support Systems: A Systematic Review with Empirical Evaluation
+
+**Venue:** ACM Transactions on Computing for Healthcare, 2026
+**DOI:** _(to be added upon publication)_
+
+**Authors:**
+- Afia Anjum\* — University of Texas at Arlington, USA; Texas Christian University, USA
+- Aqsa Yousaf — University of Texas at Arlington, USA
+- Arkajyoti Mitra — University of Texas at Arlington, USA
+- Paul Agbaje — University of Texas at Arlington, USA; Montclair State University, USA
+- Megan Coffee — NYU Langone Medical Center, USA
+- Habeeb Olufowobi — University of Texas at Arlington, USA
 
 Systematic review and empirical evaluation of XAI methods on healthcare
 datasets. Implements the taxonomy, models, and evaluation framework
